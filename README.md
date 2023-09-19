@@ -23,7 +23,7 @@ marijacetkovic@github
 📝 Interested in Software Engineering, Artificial Intelligence and Machine Learning
 💖 Enjoying music, swimming, gym, books, psychology, active participation
 🌱 Lifelong learning enthusiast
-☕ Feel free to contact me if you want to collaborate, share ideas or just grab a coffee!
+☕ Feel free to <a href="mailto:marijacetkovic03@gmail.com">contact me</a> if you want to collaborate, share ideas or just grab a coffee!
 
 
 
