@@ -53,6 +53,6 @@ marijacetkovic@github
 </p>
 
 ### ☕ let's connect!
-Feel free to <a href="mailto:marijacetkovic03@gmail.com">contact me</a> if you want to collaborate, share ideas or just grab a coffee!
+feel free to <a href="mailto:marijacetkovic03@gmail.com">contact me</a> if you want to collaborate, share ideas or just grab a coffee!
 
 
