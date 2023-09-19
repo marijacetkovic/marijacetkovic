@@ -8,7 +8,7 @@ welcome, my name is Marija :) </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Aspiring+Software+Engineer;Eager+To+Learn&center=true&color=8C32F7&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=computer+science+student;aspiring+software+engineer;eager+to+learn&center=true&color=8C32F7&width=380&height=45"></a>
 </p>
 <hr>
 
@@ -19,10 +19,10 @@ marijacetkovic@github
 -------------------------
 💻 I am a 20-year old aspiring Software Engineer from Podgorica, Montenegro
 📚 2nd year student at UP Faculty of Mathematics, Natural Sciences and Information Technologies in Koper, Slovenia
-🔭 Working on gaining academic as well as practical knowledge, being active and devoted
-📝 Interested in Software Engineering, Artificial Intelligence and Machine Learning
-💖 Enjoying music, swimming, gym, books, psychology, active participation
-🌱 Lifelong learning enthusiast
+🔭 working on gaining academic as well as practical knowledge, being active and devoted
+📝 interested in Software Engineering, Artificial Intelligence and Machine Learning
+💖 enjoying music, swimming, gym, books, psychology, active participation
+🌱 lifelong learning enthusiast
 
 
 
@@ -31,7 +31,7 @@ marijacetkovic@github
 <br>
 
 
-### 👨‍💻 Programming Languages and Skills
+### 👨‍💻 programming languages and skills
 
 <p>
   
@@ -52,7 +52,7 @@ marijacetkovic@github
 
 </p>
 
-### ☕ Let's Connect!
+### ☕ let's connect!
 Feel free to <a href="mailto:marijacetkovic03@gmail.com">contact me</a> if you want to collaborate, share ideas or just grab a coffee!
 
 
