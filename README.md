@@ -24,6 +24,7 @@ marijacetkovic@github
 💖 Enjoying music, swimming, gym, books, psychology, active participation
 🌱 Lifelong learning enthusiast
 ☕ Feel free to contact me if you want to collaborate, share ideas or just grab a coffee!
+📧 marijacetkovic03@gmail.com
 
 
 
