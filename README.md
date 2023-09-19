@@ -1,4 +1,6 @@
-### Hi there 👋
+### nice to meet you! 🚀
+
+currently based in Koper, Slovenia, I am an aspiring software engineer from Montenegro. 
 
 <!--
 **marijacetkovic/marijacetkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
