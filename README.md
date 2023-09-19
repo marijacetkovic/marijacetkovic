@@ -8,7 +8,7 @@ welcome, my name is Marija :) </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Aspiring+Software+Engineer;Eager+To+Learn&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Aspiring+Software+Engineer;Eager+To+Learn&center=true&color=8C32F7&width=380&height=45"></a>
 </p>
 <hr>
 
