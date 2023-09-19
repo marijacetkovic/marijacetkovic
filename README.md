@@ -10,9 +10,9 @@ welcome, my name is Marija :) </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Aspiring+Software+Engineer;Eager+To+Learn&center=true&width=380&height=45"></a>
 </p>
-
-<img align="left" src="" alt="" width="320" />
 <hr>
+
+<img align="left" src="https://github.com/marijacetkovic/marijacetkovic/blob/main/imgs/readme-img.png" alt="" width="320" />
 
 ```
 marijacetkovic@github
