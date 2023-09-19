@@ -12,7 +12,7 @@ welcome, my name is Marija :) </h1>
 </p>
 <hr>
 
-<img align="left" src="https://github.com/marijacetkovic/marijacetkovic/blob/main/imgs/readme-img.png" alt="" width="280" />
+<img align="left" src="https://github.com/marijacetkovic/marijacetkovic/blob/main/imgs/readme-img.png" alt="" width="270" />
 
 ```
 marijacetkovic@github
