@@ -12,7 +12,7 @@ welcome, my name is Marija :) </h1>
 </p>
 <hr>
 
-<img align="left" src="https://github.com/marijacetkovic/marijacetkovic/blob/main/imgs/readme-img.png" alt="" width="320" />
+<img align="left" src="https://github.com/marijacetkovic/marijacetkovic/blob/main/imgs/readme-img.png" alt="" width="280" />
 
 ```
 marijacetkovic@github
@@ -23,12 +23,12 @@ marijacetkovic@github
 📝 Interested in Software Engineering, Artificial Intelligence and Machine Learning
 💖 Enjoying music, swimming, gym, books, psychology, active participation
 🌱 Lifelong learning enthusiast
-☕ Feel free to <a href="mailto:marijacetkovic03@gmail.com">contact me</a> if you want to collaborate, share ideas or just grab a coffee!
 
 
 
 ```
 <hr>
+<br>
 
 
 ### 👨‍💻 Programming Languages and Skills
@@ -51,4 +51,8 @@ marijacetkovic@github
 ![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 </p>
+
+### ☕ Let's Connect!
+Feel free to <a href="mailto:marijacetkovic03@gmail.com">contact me</a> if you want to collaborate, share ideas or just grab a coffee!
+
 
