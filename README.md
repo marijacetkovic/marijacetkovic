@@ -28,8 +28,6 @@ marijacetkovic@github
 
 ```
 <hr>
-<br>
-
 
 ### 👨‍💻 programming languages and skills
 
@@ -51,7 +49,7 @@ marijacetkovic@github
 ![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 </p>
-
+<hr>
 ### ☕ let's connect!
 feel free to <a href="mailto:marijacetkovic03@gmail.com">contact me</a> if you want to collaborate, share ideas or just grab a coffee!
 
