@@ -21,7 +21,6 @@ marijacetkovic@github
 📚 2nd year student at UP Faculty of Mathematics, Natural Sciences and Information Technologies in Koper, Slovenia
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on gaining academic as well as practical knowledge, being active and devoted
-<!--🌟 Main languages: Python, JavaScript-->
 🚩 Interested in Software Engineering, Artificial Intelligence and Machine Learning
 💖 Enjoying music, swimming, gym, books, psychology, active participation
 🌱 Lifelong learning enthusiast
